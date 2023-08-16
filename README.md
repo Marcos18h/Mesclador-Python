@@ -15,7 +15,7 @@
 <br>
 <br>
 <div>
-<img width="212" alt="img-03" src="https://github.com/Marcos18h/Mesclador-Python/assets/142311932/3636f446-deae-4d38-9714-f9273c683b0b">
+<img width="212" alt="img-03" src="https://github.com/Marcos18h/Mesclador-Python/assets/142311932/3636f446-deae-4d38-9714-f9273c683b0b">🡿
   <p>Criei outra váriavel que irá conter a função para listar os arquivos de um diretório utilizando a biblioteca OS <strong>(listdir)</strong></p>
   <p>E passei como parametro da função a pasta 'ARQUIVOS' os estão os arquivos que quero mesclar.</p>
   <p>Usei a função <strong>(Sort)</strong> para ordenar os arquivos.</p>
@@ -24,6 +24,10 @@
 <br>
 <br>
 <div>
-  <img width="233" alt="img-04" src="https://github.com/Marcos18h/Mesclador-Python/assets/142311932/170f5368-74c1-453c-8a81-ff2f7a8c9506">
+  <img width="233" alt="img-04" src="https://github.com/Marcos18h/Mesclador-Python/assets/142311932/170f5368-74c1-453c-8a81-ff2f7a8c9506">🡿
+  <p>Crie um loop <strong>(for)</strong> para percorrer os arquivos da pasta.</p>
+  <p>Com uma condição <strong>(if)</strong>, para verificar se o arquivo tem a extenção <strong>PDF</strong>.</p>
+  <p>Caso o arquivo tenha a extensão <strong>PDF</strong> ele irá adicionar o arquivo na função (merge).</p>
+  <p>Por final usamos a função <strong>(WRITE)</strong> que irá escrever o arquivo mesclado e escrevemos o nome desejado para salvar o mesmo.</p>
 </div>
 
